@@ -1,0 +1,22 @@
+@media all and (-ms-high-contrast: none),
+       (-ms-high-contrast: active) {
+    .hero-content .long-btn {
+        right: calc((-100vw / 12 * 1 - 30px)) !important;
+    }
+    
+    @media only screen and (min-width: 769px) {
+        .hero-content .long-btn.animation {
+            animation-name: none !important;
+        }
+    }
+    
+    #product #add.button {
+        left: calc(-50% - 110px) !important;
+    }
+    
+    #product #add.button.animation {
+        animation-name: none !important;
+    }
+}
+
+/*# sourceMappingURL=/cdn/shop/t/9/assets/ie.css.map?v=57303139665899733351551188990 */
