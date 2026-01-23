@@ -2,15 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');
 
-body {
-  font-size: 13px;
-  font-family: 'Barlow', sans-serif;
-  color: #666;
-  background-color: #eee;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 @font-face {
   font-family: majira;
   src: url(majira1.eot);
@@ -95,7 +86,7 @@ a, a:hover, a:active, a:focus {
 
 body {
   font-size: 13px;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   color: #666;
   background-color: #eee;
   -webkit-font-smoothing: antialiased;
@@ -133,7 +124,7 @@ h1, h2, h3, h4 { font-weight: 700; }
 
 .button {
   padding: 15px 30px;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   color: #333333;
@@ -623,7 +614,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
 .hero-content .price {
   display: block;
   padding: 60px 0 0;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 15px;
   font-weight: 700;
   letter-spacing: 1px;
@@ -645,7 +636,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
   text-transform: uppercase;
   font-size: 12px;
   font-weight: 600;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   letter-spacing: 1px;
   position: absolute;
   right: -130%;
@@ -1044,7 +1035,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
 .item .details { position: relative; z-index: 99; }
 
 .item .title {
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-weight: 700;
   font-size: 10px;
   letter-spacing: 2px;
@@ -1055,7 +1046,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
 .item .title a { color: #333; }
 
 .item .price {
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-weight: 700;
   font-size: 10px;
   letter-spacing: 2px;
@@ -1163,7 +1154,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
   width: 100%;
   font-size: 12px;
   font-weight: 600;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   letter-spacing: 2px;
   padding: 12px;
   text-align: right;
@@ -1212,7 +1203,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
 
 #product h1, #product h2 {
   float: left;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 35px;
   color: #333;
   letter-spacing: 20px;
@@ -1225,7 +1216,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
 
 #product h1 {
   float: right;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 35px;
   letter-spacing: 0;
   font-weight: 300;
@@ -1251,7 +1242,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
   width: 100%;
   color: #333;
   text-align: right;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 30px;
   font-weight: 300;
   border-top: 1px solid #dcdcdc;
@@ -1387,7 +1378,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
   font-size: 16px;
   font-weight: 400;
   text-transform: uppercase;
-  font-family: Din Pro;
+  font-family: 'Barlow';
   color: #333;
   letter-spacing: 4px;
   margin-bottom: 15px;
@@ -1454,7 +1445,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
 .about-image-boxes p {
   font-size: 10px;
   line-height: 20px;
-  font-family: Din Pro;
+  font-family: 'Barlow';
   letter-spacing: 2px;
 }
 
@@ -1538,7 +1529,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
 
 .cart-item span.price {
   font-size: 13px;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-weight: 600;
   margin-top: 50px;
 }
@@ -1585,7 +1576,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
   text-align: center;
   display: block;
   padding-bottom: 20px;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
 }
 
 @media only screen and (max-width: 768px) {
@@ -1611,7 +1602,7 @@ header .inverted .logo a:hover { background-image: url(logo-grey.png); }
   display: block;
   width: 100%;
   text-align: center;
-  font-family: Din Pro, sans-serif;
+  font-family: 'Barlow', sans-serif;
   font-size: 15px;
   margin: 30px 0;
 }
