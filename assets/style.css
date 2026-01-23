@@ -1,3 +1,16 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');
+
+body {
+  font-size: 13px;
+  font-family: 'Barlow', sans-serif;
+  color: #666;
+  background-color: #eee;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 @font-face {
   font-family: majira;
   src: url(majira1.eot);
